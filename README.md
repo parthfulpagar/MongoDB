@@ -1,2 +1,2 @@
 # MongoDB
-MongoDB practice with Assignments Que and More
+Practicing MongoDB with Assignments Que and More
